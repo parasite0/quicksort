@@ -1,0 +1,12 @@
+C:\Users\111\source\repos\QuickSort\Solve\bin\Debug\Solve.dll
+C:\Users\111\source\repos\QuickSort\Solve\bin\Debug\Solve.pdb
+C:\Users\111\source\repos\QuickSort\Solve\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\111\source\repos\QuickSort\Solve\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\QuickSort\Solve\obj\Debug\Solve.dll
+C:\Users\111\source\repos\QuickSort\Solve\obj\Debug\Solve.pdb
+C:\Users\vlad1\Downloads\QuickSort\Solve\bin\Debug\Solve.dll
+C:\Users\vlad1\Downloads\QuickSort\Solve\bin\Debug\Solve.pdb
+C:\Users\vlad1\Downloads\QuickSort\Solve\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Downloads\QuickSort\Solve\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Downloads\QuickSort\Solve\obj\Debug\Solve.dll
+C:\Users\vlad1\Downloads\QuickSort\Solve\obj\Debug\Solve.pdb

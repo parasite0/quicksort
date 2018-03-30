@@ -1,0 +1,6 @@
+C:\Users\vlad1\Desktop\quicksort\Solve\bin\Debug\Solve.dll
+C:\Users\vlad1\Desktop\quicksort\Solve\bin\Debug\Solve.pdb
+C:\Users\vlad1\Desktop\quicksort\Solve\obj\Debug\qsrt.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\quicksort\Solve\obj\Debug\Solve.dll
+C:\Users\vlad1\Desktop\quicksort\Solve\obj\Debug\Solve.pdb
+C:\Users\vlad1\Desktop\quicksort\Solve\obj\Debug\qsrt.csprojResolveAssemblyReference.cache

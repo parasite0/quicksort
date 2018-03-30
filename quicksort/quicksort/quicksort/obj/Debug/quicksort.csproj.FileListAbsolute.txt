@@ -1,0 +1,9 @@
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\bin\Debug\quicksort.exe.config
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\bin\Debug\quicksort.exe
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\bin\Debug\quicksort.pdb
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\bin\Debug\qsrt.dll
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\bin\Debug\qsrt.pdb
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\obj\Debug\quicksort.csprojResolveAssemblyReference.cache
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\obj\Debug\quicksort.exe
+C:\Users\vlad1\Desktop\quicksort\quicksort\quicksort\obj\Debug\quicksort.pdb
